@@ -1,7 +1,9 @@
 ### [Connect with me 💬](https://bio.link/hadiul) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hadiul.hadiul)
 #
-Hello, I'm Hadiul! I am a professional full stack developer from Bangladesh, specializing in JavaScript. With a strong passion for coding and problem-solving, I excel in leveraging the power of JavaScript to create innovative solutions.
+Hello :wave:, 
+
+I'm Hadiul! I am a professional full stack developer from Bangladesh, specializing in JavaScript. With a strong passion for coding and problem-solving, I excel in leveraging the power of JavaScript to create innovative solutions.
 
 JavaScript is my language of choice, and I thoroughly enjoy working with it across various domains. Whether it's building dynamic web applications, developing server-side APIs, or even exploring the exciting world of JavaScript-based mobile app development, I bring a wide range of skills and experience to the table.
 
