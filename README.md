@@ -11,5 +11,3 @@ I have a deep understanding of JavaScript technologies such as React.js, Node.js
 
 Thank you for visiting my profile, and I'm excited to connect with fellow professionals who share my passion for JavaScript. Let's collaborate and push the boundaries of what can be achieved with this versatile language
 
-
-https://chatgpt.com/share/7acddbb0-ea74-4058-acc8-435f446d357e
